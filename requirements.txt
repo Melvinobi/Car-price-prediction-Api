@@ -1,0 +1,13 @@
+gurobipy
+ipykernel
+ipython
+jupyter_client
+jupyter_core
+networkx
+numpy
+openpyxl
+pandas
+plotly
+requests
+rich
+yfinance
