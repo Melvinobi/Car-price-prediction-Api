@@ -17,8 +17,8 @@ This project demonstrates how to deploy a machine learning regression model as a
 Clone or download the project files to your local machine.
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Melvinobi/Car-price-prediction-Api.git
+cd Car-price-prediction-Api
 ```
 
 ### 2. Install Dependencies
